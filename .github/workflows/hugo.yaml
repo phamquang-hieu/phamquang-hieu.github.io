@@ -47,7 +47,8 @@ jobs:
         with:
           node-version: '22.16.0' # This line specifies Node.js version 20
           cache: 'npm' # Optional: Caches node_modules for faster builds (if you use npm)
-
+      - name: Install Node.js dependencies
+        run: npm install
       # - name: Checkout
         # uses: actions/checkout@v4
         # with:
