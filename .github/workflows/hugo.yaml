@@ -42,8 +42,14 @@ jobs:
           && sudo dpkg -i ${{ runner.temp }}/hugo.deb
       - name: Install Dart Sass
         run: sudo snap install dart-sass
-      - name: Checkout
-        uses: actions/checkout@v4
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22.16.0' # This line specifies Node.js version 20
+          cache: 'npm' # Optional: Caches node_modules for faster builds (if you use npm)
+
+      # - name: Checkout
+        # uses: actions/checkout@v4
         # with:
           # submodules: recursive
           # fetch-depth: 0
