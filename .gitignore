@@ -3,6 +3,5 @@
 node_modules
 public
 .hugo_build.lock
-package-lock.json
 resources/
 public/
