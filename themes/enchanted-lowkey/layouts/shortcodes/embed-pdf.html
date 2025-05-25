@@ -1,0 +1,25 @@
+<div class="pdf-container">
+    <iframe
+      src="{{ .Get "url" | relURL }}#toolbar=0&navpanes=0&scrollbar=0"
+      width="100%"
+      height="600px"
+      type="application/pdf"
+      frameborder="0"
+      allowfullscreen
+      webkitallowfullscreen
+      mozallowfullscreen
+    ></iframe>
+  </div>
+  
+  <style>
+    .pdf-container {
+      width: 100%;
+      height: 600px; /* Adjust height as needed */
+      overflow: hidden;
+      border: 1px solid #ddd; /* Optional border */
+    }
+    .pdf-container iframe {
+      width: 100%;
+      height: 100%;
+    }
+  </style>
