@@ -6,15 +6,17 @@ I am working as an AI Resident at [Qualcomm AI Research](https://www.qualcomm.co
 ## Publications
 ---
 
-**To appear...**                           
+**ClozeMath: Improving Mathematical Reasoning in Language Models by Learning to Fill Equations**  
+<u>*Quang Hieu Pham**</u>, Thuy Duong Nguyen*, Tung Pham, Anh Tuan Luu, Dat Quoc Nguyen                           
 *Findings of the Association for Computational Linguistics: ACL 2025*.
 * A simple yet effective method for enhancing LLM instruction tuning on mathematical data. 
 * [[PDF]]() [[arXiv]]() [[Code]]() 
 
 
 **Who’s Who: Large Language Models Meet Knowledge Conflicts in Practice**.    
-Quang Hieu Pham*, Hoang Ngo*, Anh Tuan Luu, Dat Quoc Nguyen.   
+<u>*Quang Hieu Pham**</u>, Hoang Ngo*, Anh Tuan Luu, Dat Quoc Nguyen.   
 *Findings of the Association for Computational Linguistics: EMNLP 2024*.
 * It's not just fake news; inherent ambiguities can also substantially deceive LLMs.
 * [[PDF]](https://aclanthology.org/2024.findings-emnlp.593.pdf) [[arXiv]](https://arxiv.org/abs/2410.15737) [[Code]](https://github.com/VinAIResearch/WhoQA)
-
+---
+[*] denotes equal contributions
