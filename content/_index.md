@@ -9,8 +9,8 @@ I am working as an AI Resident at [Qualcomm AI Research](https://www.qualcomm.co
 **ClozeMath: Improving Mathematical Reasoning in Language Models by Learning to Fill Equations**  
 <u>*Quang Hieu Pham**</u>, Thuy Duong Nguyen*, Tung Pham, Anh Tuan Luu, Dat Quoc Nguyen                           
 *Findings of the Association for Computational Linguistics: ACL 2025*.
-* A simple yet effective method for enhancing LLM instruction tuning on mathematical data. 
-* [[PDF]]() [[arXiv]]() [[Code]]() 
+* We fine-tune LLMs with language modeling and text infilling objectives, focusing specifically on learning to fill equations, and the outcome is really good xD. 
+* [[PDF]](https://arxiv.org/abs/2506.03763) [[arXiv]](https://arxiv.org/abs/2506.03763) [[Code]]() 
 
 
 **Who’s Who: Large Language Models Meet Knowledge Conflicts in Practice**.    
