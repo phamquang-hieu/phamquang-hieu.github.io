@@ -2,7 +2,7 @@
 title: "Hi there, I'm Hieu!"
 draft: false
 ---
-I'm a master's student at University of Alberta, advised by [Dr. Xi Ye](https://xiye17.github.io) and [Dr. Jocelyn Chen](https://thelyad.github.io). My research explores two core questions: how AI models can more accurately reflect human cognition and what characterizes their reasoning processes. I am particularly interested in the [“Era of Experience”](https://storage.googleapis.com/deepmind-media/Era-of-Experience\%20/The\%20Era\%20of\%20Experience\%20Paper.pdf) where learning occurs through interactions with the real world.
+I'm a master's student at the [University of Alberta](https://www.ualberta.ca/en/computing-science/index.html), advised by [Dr. Xi Ye](https://xiye17.github.io) and [Dr. Jocelyn Chen](https://thelyad.github.io). My research explores two core questions: how AI models can more accurately reflect human cognition and what characterizes their reasoning processes. I am particularly interested in the [“Era of Experience”](https://storage.googleapis.com/deepmind-media/Era-of-Experience\%20/The\%20Era\%20of\%20Experience\%20Paper.pdf) where learning occurs through interactions with the real world.
 
 I was an AI Resident at [Qualcomm AI Research](https://www.qualcomm.com/research/artificial-intelligence), where I worked with [Prof. Luu Anh Tuan](https://tuanluu.github.io/), [Dr. Dat Quoc Nguyen](https://datquocnguyen.github.io/), [Dr. Tung Pham](https://openreview.net/profile?id=~Tung_Pham1).
 
