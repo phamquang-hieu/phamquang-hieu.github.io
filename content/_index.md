@@ -2,18 +2,22 @@
 title: "Hi there, I'm Hieu!"
 draft: false
 ---
+<div style="text-align: center;">
+
 I'm a master's student at the [University of Alberta](https://www.ualberta.ca/en/computing-science/index.html), advised by [Dr. Xi Ye](https://xiye17.github.io) and [Dr. Jocelyn Chen](https://thelyad.github.io). My research explores two core questions: how AI models can more accurately reflect human cognition and what characterizes their reasoning processes. I am particularly interested in the [“Era of Experience”](https://storage.googleapis.com/deepmind-media/Era-of-Experience\%20/The\%20Era\%20of\%20Experience\%20Paper.pdf) where learning occurs through interactions with the real world.
 
-I was an AI Resident at [Qualcomm AI Research](https://www.qualcomm.com/research/artificial-intelligence), where I worked with [Prof. Luu Anh Tuan](https://tuanluu.github.io/), [Dr. Dat Quoc Nguyen](https://datquocnguyen.github.io/), [Dr. Tung Pham](https://openreview.net/profile?id=~Tung_Pham1).
+I was an AI Resident at [Qualcomm AI Research](https://www.qualcomm.com/research/artificial-intelligence), where I worked with [Prof. Luu Anh Tuan](https://tuanluu.github.io/), [Dr. Dat Quoc Nguyen](https://datquocnguyen.github.io/) and [Dr. Tung Pham](https://openreview.net/profile?id=~Tung_Pham1).
+
+</div>
 
 ## Publications
 <small style="font-style: italic;">[*] denotes equal contributions</small>
 
-**FlexSQL: Flexible Exploration and Execution Make Better Text-to-SQL Agents (Preprint)**
+**FlexSQL: Flexible Exploration and Execution Make Better Text-to-SQL Agents (Preprint)**  
 <u>*Quang Hieu Pham*</u>, Yang He, Ping Nie, Canwen Xu, Davood Rafiei, Yuepeng Wang, Xi Ye, Jocelyn Qiaochu Chen
 * [[PDF]](https://arxiv.org/pdf/2605.02815v1)[[Code]](https://github.com/StringNLPLAB/FlexSQL) 
 
-**Detecting and Suppressing Reward Hacking with Gradient Fingerprints (Preprint)** 
+**Detecting and Suppressing Reward Hacking with Gradient Fingerprints (Preprint)**  
 Songtao Wang, <u>*Quang Hieu Pham*</u>, Fangcong Yin, Xinpeng Wang, Jocelyn Qiaochu Chen, Greg Durrett, Xi Ye
 * [[PDF]](https://arxiv.org/pdf/2604.16242)[[Code]](https://github.com/songtao-x/reward_hack) 
 
