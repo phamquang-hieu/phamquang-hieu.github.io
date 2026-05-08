@@ -10,6 +10,8 @@ paginate = 5
 
 
 [markup]
+  [markup.goldmark.renderer]
+    unsafe = true
   [markup.highlight]
     anchorLineNos = false
     codeFences = true
