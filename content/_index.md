@@ -13,12 +13,14 @@ I was an AI Resident at [Qualcomm AI Research](https://www.qualcomm.com/research
 ## Publications
 <small style="font-style: italic;">[*] denotes equal contributions</small>
 
-**FlexSQL: Flexible Exploration and Execution Make Better Text-to-SQL Agents (Preprint)**  
+**FlexSQL: Flexible Exploration and Execution Make Better Text-to-SQL Agents**  
 <u>*Quang Hieu Pham*</u>, Yang He, Ping Nie, Canwen Xu, Davood Rafiei, Yuepeng Wang, Xi Ye, Jocelyn Qiaochu Chen
+*Proceedings of COLM 2026*.
 * [[PDF]](https://arxiv.org/pdf/2605.02815v1)[[Code]](https://github.com/StringNLPLAB/FlexSQL) 
 
-**Detecting and Suppressing Reward Hacking with Gradient Fingerprints (Preprint)**  
+**Detecting and Suppressing Reward Hacking with Gradient Fingerprints**  
 Songtao Wang, <u>*Quang Hieu Pham*</u>, Fangcong Yin, Xinpeng Wang, Jocelyn Qiaochu Chen, Greg Durrett, Xi Ye
+*Proceedings of COLM 2026.*
 * [[PDF]](https://arxiv.org/pdf/2604.16242)[[Code]](https://github.com/songtao-x/reward_hack) 
 
 **ClozeMath: Improving Mathematical Reasoning in Language Models by Learning to Fill Equations**  
