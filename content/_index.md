@@ -13,6 +13,11 @@ I was an AI Resident at [Qualcomm AI Research](https://www.qualcomm.com/research
 ## Publications
 <small style="font-style: italic;">[*] denotes equal contributions</small>
 
+**LongHarness Bench: Stress-Testing Language Model Harnesses for Long-Context Reasoning**<br>
+<u>*Quang Hieu Pham**</u>, Thuy Duong Nguyen*, Jocelyn Qiaochu Chen, Xi Ye. *Preprint, 2026.*
+* We introduce a benchmark that stress-tests language-model harnesses on long-context reasoning while measuring both accuracy and computational cost.
+* [[PDF]](https://arxiv.org/pdf/2609.38137)[[Website]](https://stringnlplab.github.io/longharness/)
+
 **FlexSQL: Flexible Exploration and Execution Make Better Text-to-SQL Agents**  
 <u>*Quang Hieu Pham*</u>, Yang He, Ping Nie, Canwen Xu, Davood Rafiei, Yuepeng Wang, Xi Ye, Jocelyn Qiaochu Chen. *Proceedings of COLM 2026*.
 * [[PDF]](https://arxiv.org/pdf/2605.02815v1)[[Code]](https://github.com/StringNLPLAB/FlexSQL) 
