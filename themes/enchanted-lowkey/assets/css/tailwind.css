@@ -384,3 +384,66 @@ p + ul {
 
 
 /* @import "./custom.css"; */
+/* Palette + type matched to mi-do-ri.github.io */
+:root {
+  --paper: #ffffff;
+  --ink: #171713;
+  --body: #505048;
+  --olive: #69734a;
+  --olive-dark: #59613d;
+  --olive-soft: #eef0e4;
+  --line: #e8e7df;
+  --muted: #68685f;
+}
+html.dark {
+  --paper: #171713;
+  --ink: #f3eee5;
+  --body: #cfcdc3;
+  --olive: #b4bf8f;
+  --olive-dark: #c9d3a6;
+  --olive-soft: #2a2d20;
+  --line: #34342c;
+  --muted: #9a998f;
+}
+
+body {
+  background: var(--paper);
+  color: var(--body);
+  font-family: "Google Sans Flex", "Google Sans", Arial, sans-serif;
+  font-size: 1.05rem;
+  line-height: 1.65;
+  -webkit-font-smoothing: antialiased;
+}
+h1, h2, h3, h4, h5, h6,
+.title-large, .title-small, #site-title {
+  color: var(--ink);
+  font-weight: 480;
+  letter-spacing: -0.03em;
+}
+hr { border-color: var(--line); }
+::selection { background: var(--olive-soft); }
+
+header nav > ul { text-transform: lowercase; font-size: 1.05rem; }
+nav a, footer a { color: var(--olive); font-weight: 650; }
+nav a:hover, footer a:hover { color: var(--olive-dark); }
+nav a.active {
+  color: var(--olive);
+  text-decoration: underline;
+  text-decoration-thickness: 1.5px;
+  text-underline-offset: 0.35em;
+}
+footer { color: var(--muted); }
+
+#content a, #content .read-more {
+  color: var(--olive-dark);
+  font-weight: 540;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.18em;
+}
+#content a:hover, #content .read-more:hover { color: var(--ink); }
+#content h1 > a { color: var(--ink); }
+#content strong { color: var(--ink); font-weight: 610; }
+#content .date, #content .meta, figcaption, blockquote { color: var(--muted); }
+#content .table-of-contents #TableOfContents ul li a { color: var(--body); }
+#content .table-of-contents #TableOfContents ul li a:hover { color: var(--olive-dark); }
+.header .toggle-theme { color: var(--olive); }
