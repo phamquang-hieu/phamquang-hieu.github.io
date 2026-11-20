@@ -447,3 +447,12 @@ footer { color: var(--muted); }
 #content .table-of-contents #TableOfContents ul li a { color: var(--body); }
 #content .table-of-contents #TableOfContents ul li a:hover { color: var(--olive-dark); }
 .header .toggle-theme { color: var(--olive); }
+/* Beat Tailwind utility classes (font-extrabold, text-gray-*) used in list/section templates */
+#content h1, #content h2, #content h3, #content h4,
+#content .title-large, #content .title-small {
+  color: var(--ink);
+  font-weight: 480;
+  letter-spacing: -0.03em;
+}
+#content h1 > a { font-weight: 480; }
+#content .description { color: var(--body); }
